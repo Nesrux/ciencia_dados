@@ -1,2 +1,2 @@
 # ciencia_dados
-Repositório de ciencia de dados
+Repositório feito para aprender sobre ciencia de dados
